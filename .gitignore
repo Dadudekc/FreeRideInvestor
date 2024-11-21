@@ -76,4 +76,4 @@ MANIFEST
 *.temp
 *.swp
 *.swo
-ui/config.ini
+config.ini
